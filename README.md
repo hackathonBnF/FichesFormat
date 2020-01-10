@@ -1,6 +1,6 @@
 # Fiches Format
 
-Les fiches format sont à décrire dans le wiki : utilisez l'[onglet correspondant](https://github.com/hackathonBnF/FichesFormat/wiki).
+Les fiches format sont à décrire dans le wiki : utilisez l'[onglet correspondant](wiki).
 
 Pour créer une nouvelle fiche, cliquez sur "Edit" sur la page [Structure des fiches](https://github.com/hackathonBnF/FichesFormat/wiki/Structure_Fiche) afin de copier le code de la page.
 
