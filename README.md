@@ -16,7 +16,7 @@ Lorsque vous avez terminé vos modifications, cliquez sur "Save page". Vous pour
 
 Enfin, référencez la nouvelle fiche depuis la [page d'accueil du wiki](https://github.com/hackathonBnF/FichesFormat/wiki).
 
-De nombreux formats ont déjà fait l'objet d'un travail conséquent mené par les bibliothèques anglo-saxonnes (LoC, BL, Stanford, etc.). Vous trouverez une liste de ces ressources dans la section 9 du document BnF-ADM-2018-021638-02. N'hésitez pas à vous en inspirer : pour l'essentiel, le travail de rédaction des fiches consiste en de la traduction et de la compilation.
+De nombreux formats ont déjà fait l'objet d'un travail conséquent mené par les bibliothèques anglo-saxonnes (LoC, BL, Stanford, etc.). Vous trouverez une liste de ces ressources dans la section 9 du document BnF-ADM-2018-021638-02. N'hésitez pas à vous en inspirer : pour l'essentiel, le travail de rédaction des fiches consiste à traduire et compiler.
 
 Vous trouverez les principales conventions du langage markdown sur [la page Wikipédia du langage](https://fr.wikipedia.org/wiki/Markdown#Quelques_exemples).
 
