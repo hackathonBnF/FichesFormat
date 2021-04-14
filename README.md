@@ -1,3 +1,7 @@
+# Document de politique
+
+Le document de politique est publié depuis le 12 avril 2021 sur https://www.bnf.fr/sites/default/files/2021-04/politiqueFormatsDePreservationBNF_20210408.pdf. Il réunit une version des vingt fiches validées dans leur état au 8 avril 2021.
+
 # Fiches Format
 
 Les fiches format sont à décrire dans le wiki : utilisez l'[onglet correspondant](https://github.com/hackathonBnF/FichesFormat/wiki).
