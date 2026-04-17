@@ -1,6 +1,6 @@
 # Document de politique
 
-Le document de politique est publié depuis le 12 avril 2021 sur https://hal-bnf.archives-ouvertes.fr/hal-03374030. Il réunit une version des vingt fiches validées dans leur état au 11 octobre 2021.
+Le document de politique est publié dans sa seconde version du 27 mai 2025 sur https://hal-bnf.archives-ouvertes.fr/hal-03374030. Il réunit une version des quarante-quatre fiches validées.
 
 # Fiches Format
 
